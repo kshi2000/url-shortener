@@ -2,11 +2,3 @@ target/
 .git
 .gitignore
 *.md
-
-
-git init
-git add .
-git commit -m "initial project setup"
-git branch -M main
-git remote add origin https://github.com/yourusername/urlshortener.git
-git push -u origin main
